@@ -1,6 +1,6 @@
 ## Ratna Warsitasari Web Portfolio
 
-Ratna Warsitasari is a personal profile website developed to showcase the professional background, achievements, and portfolio of Ratna Warsitasari in a clean and elegant format. The site is structured to present key information clearly and effectively, serving as both a digital resume and personal brand presence. This project reflects a strong understanding of responsive layout design, visual hierarchy, and user-centered content presentation.
+ratnawarsitasari is a personal profile website developed to showcase the professional background, achievements, and portfolio of Ratna Warsitasari in a clean and elegant format. The site is structured to present key information clearly and effectively, serving as both a digital resume and personal brand presence. This project reflects a strong understanding of responsive layout design, visual hierarchy, and user-centered content presentation.
 
 ### 🛠️ Tech Stack
 * HTML
